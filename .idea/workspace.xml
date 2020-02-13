@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Xk6CyEFv8ia9aG6rRG2nTgTAh6" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-987" y="212" key="FileChooserDialogImpl" timestamp="1581577662862">
+      <screen x="-1280" y="60" width="1024" height="819" />
+    </state>
+    <state x="-987" y="212" key="FileChooserDialogImpl/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581577662862" />
+    <state x="-902" y="364" key="Github.ShareDialog" timestamp="1581577675649">
+      <screen x="-1280" y="60" width="1024" height="819" />
+    </state>
+    <state x="-902" y="364" key="Github.ShareDialog/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581577675649" />
+    <state x="-996" y="176" key="Github.UntrackedFilesDialog" timestamp="1581577688809">
+      <screen x="-1280" y="60" width="1024" height="819" />
+    </state>
+    <state x="-996" y="176" key="Github.UntrackedFilesDialog/0.0.1536.864/-1280.60.1024.819@-1280.60.1024.819" timestamp="1581577688809" />
+  </component>
+</project>
